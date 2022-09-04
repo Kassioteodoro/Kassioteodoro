@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Kassioteodoro/Kassioteodoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<img url='https://avatars.githubusercontent.com/u/100148354?s=400&u=926ce7b69c8f8f3d6c52030718c5e6e509e21fa7&v=4', alt='img-perfil-kassio' />
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
