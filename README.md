@@ -51,7 +51,6 @@
 <p align="left">
 <h3> Contatos</h3>
 <a href="https://www.linkedin.com/in/kassioteodoro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/teodorokassio/"><img alt="InstagramIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <br/>
 Email: kassioteadoro@gmail.com
 </p>
