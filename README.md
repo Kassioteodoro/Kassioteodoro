@@ -32,7 +32,7 @@
 
 <h3>Meus proximos passos são</h3>
 
-<p >Iniciar meus passos em BackEnd</p>
+<p >Iniciando meus passos em BackEnd</p>
 
 
 
