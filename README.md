@@ -32,9 +32,6 @@
 
 <h3>Meus proximos passos são</h3>
 
-<p >Aumentar meu conhecimento em CSS</p>
-<p >Estudar sobre UI e UX</p>
-<p >Aprender a utilizar o Figma</p>
 <p >Iniciar meus passos em BackEnd</p>
 
 
