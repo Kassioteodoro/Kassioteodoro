@@ -2,7 +2,7 @@
 
 
 <p align="left">
-<h1 align="center"> Olá, meu nome é Kassio </h1>
+<h1 align="center"> Olá, sou Kassio </h1>
 <h1 align="center"> Seja bem vindo ao meu GitGub </h1>
 <h2 align="center"> Sou um programador em desenvolvimento, estudante da Trybe 🚀</2>
 </p>
