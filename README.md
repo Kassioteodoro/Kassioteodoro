@@ -12,6 +12,7 @@
 
 
 <h4>estudante da Tybe, gosto tanto de frontend quanto backend 👨‍💻</h4>
+<h4>para mim e tao gostoso pensar nos designer de paginas e procurar paginas novas com designer maravilhosos, quanto gosto de perder horas pensando na arquitetura de um aplicação e o que eu poderia fazer de diferente so pra ver no que da 💻</h4>
 <h4>Fora dos computadores gosto de estar gastando minhas energias em esportes 🏋️‍♂️</h4>
 <h4>Ou praticando fotografia 📸</h4>
 
