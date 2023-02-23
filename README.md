@@ -3,19 +3,17 @@
 
 <p align="left">
 <h1 align="center"> Olá, sou Kassio </h1>
-<h1 align="center"> Seja bem vindo ao meu GitGub </h1>
-<h2 align="center"> Sou um programador em desenvolvimento, estudante da Trybe 🚀</2>
+<h1 align="center"> Seja bem vindo ao meu GitHub </h1>
+<h2 align="center"> Sou um desenvolvedor Full-Stack</h2>
+<h2 align="center">estudante da Trybe 🚀</2>
 </p>
 
 <br/> 
 <br/> 
 
 
-<h4>estudante da Tybe, gosto tanto de frontend quanto backend 👨‍💻</h4>
-<h4>para mim e tao gostoso pensar nos designer de paginas e procurar paginas novas com designer maravilhosos, quanto gosto de perder horas pensando na arquitetura de um aplicação e o que eu poderia fazer de diferente so pra ver no que da 💻</h4>
-<h4>Fora dos computadores gosto de estar gastando minhas energias em esportes 🏋️‍♂️</h4>
-<h4>Ou praticando fotografia 📸</h4>
-
+<h4>Gosto de pensar nos designer de paginas e procurar paginas novas com designer maravilhosos🌟, quanto gosto de perder horas pensando na arquitetura de um aplicação e o que eu poderia fazer de diferente so pra ver no que da 💻</h4>
+<h4>Fora dos computadores gosto de estar gastando minhas energias em esportes 🏋️‍ ou gastando minha criatividade com fotografia📸, desenhando ou escrevendo</h4>
 
 #
 
@@ -35,7 +33,6 @@
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
