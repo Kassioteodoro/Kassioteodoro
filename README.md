@@ -1,25 +1,21 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/100148354?s=400&u=926ce7b69c8f8f3d6c52030718c5e6e509e21fa7&v=4" width="300"/>
 
-
 <p align="left">
-<h1 align="center"> Olá, sou Kassio </h1>
-<h1 align="center"> Seja bem vindo ao meu GitHub </h1>
-<h2 align="center"> Sou um desenvolvedor Full-Stack</h2>
-<h2 align="center">estudante da Trybe 🚀</2>
+<h1 align="center">Olá, eu sou o Kassio! 👋</h1>
 </p>
 
 <br/> 
 <br/> 
 
 
-<h4>Gosto de pensar nos designer de paginas e procurar paginas novas com designer maravilhosos🌟, quanto gosto de perder horas pensando na arquitetura de um aplicação e o que eu poderia fazer de diferente so pra ver no que da 💻</h4>
-<h4>Fora dos computadores gosto de estar gastando minhas energias em esportes 🏋️‍ ou gastando minha criatividade com fotografia📸, desenhando ou escrevendo</h4>
-
-#
+<h4 align="center">Bem-vindo(a) ao meu GitHub! Sou um desenvolvedor Full-Stack e estudante da Trybe🚀. Gosto de pensar em design de páginas e encontrar novas páginas com designs incríveis, assim como passar horas pensando na arquitetura de um aplicativo e explorar novas ideias para ver no que isso resulta.
+<h4/>
+<h4 align="center">
+Fora dos computadores, gosto de gastar minhas energias em esportes como musculação 🏋️‍ e gastar minha criatividade com fotografia 📷, desenho ou escrita.<h4/>
 
 <br/>
 
-<h3 align="left"> Meu leque de ferramentas </h3>
+<h2 align="left">Minhas ferramentas</h2>
 
 <h3 align="left"> backend </h3>
 
@@ -71,6 +67,7 @@
 <a href="mailto:kassioteadoro@gmail.com"><img alt="kassioteadoro@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
+
 
 
 
